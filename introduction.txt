@@ -1,0 +1,10 @@
+[01m> Bad Apple on Telnet![0m
+
+Recommended Terminal Resolution: 72x27
+
+(Pls report any bugs to [04m[34mhttps://www.papaproductions.cc/suggest.html[0m)
+
+[01m> Controls[0m
+
+- Play/Pause      - Enter
+- Monochrome mode - M
